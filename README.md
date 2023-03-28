@@ -54,21 +54,10 @@ SNS를 통한 온라인 소통의 장 바나나마켓입니다.
 
 ## 6. 기능
 
-|                                           1. Splash                                            |                                         2. 회원가입                                         |
+|                                           1. 게시글 작성                                        |                                         2. 게시글수정 및 삭제                                       |
 | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|     <img src="img/gif/1_splash.gif" alt= "1" style="border: 3px solid #333; width:300px;">     |    <img src="img/gif/2_join.gif" alt= "2" style="border: 3px solid #333; width:300px;">     |
-|                                           3. 로그인                                            |                                         4. 피드화면                                         |
-|     <img src="img/gif/3_login.gif" alt= "3" style="border: 3px solid #333; width:300px;">      |    <img src="img/gif/4_feed.gif" alt= "4" style="border: 3px solid #333; width:300px;">     |
-|                                    5. 포스팅 좋아요 및 댓글                                    |                                6. 게시글 작성 및 나의 페이지                                |
-| <img src="img/gif/5_likes,comment.gif" alt= "5" style="border: 3px solid #333; width:300px;">  |   <img src="img/gif/6_upload.gif" alt= "6" style="border: 3px solid #333; width:300px;">    |
-|                                      7. 다른 사람 페이지                                       |                                       8. 프로필 수정                                        |
-|   <img src="img/gif/7_otherpage.gif" alt= "7" style="border: 3px solid #333; width:300px;">    | <img src="img/gif/8_editprofile.gif" alt= "8" style="border: 3px solid #333; width:300px;"> |
-|                                     9. 게시글 수정 및 삭제                                     |                                        10. 상품 등록                                        |
-|    <img src="img/gif/9_editpost.gif" alt= "9" style="border: 3px solid #333; width:300px;">    | <img src="img/gif/10_salepost.gif" alt= "10" style="border: 3px solid #333; width:300px;">  |
-|                                     11. 상품 수정 및 삭제                                      |                                   12. 팔로우 및 언팔로우                                    |
-| <img src="img/gif/11_editsalepost.gif" alt= "11" style="border: 3px solid #333; width:300px;"> |  <img src="img/gif/12_follow.gif" alt= "12" style="border: 3px solid #333; width:300px;">   |
-|                                          13. 로그아웃                                          |
-|    <img src="img/gif/13_logout.gif" alt= "13" style="border: 3px solid #333; width:300px;">    |
+|     <img src="img/gif/6_upload.gif" alt= "게시글 작성" style="border: 3px solid #333; width:300px;">     |    <img src="img/gif/9_editpost.gif" alt= "9" style="border: 3px solid #333; width:300px;">     |
+
 
 ## 7. 고민했던 부분과 해결한 부분 및 느낀점
 
